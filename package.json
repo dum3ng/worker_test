@@ -1,0 +1,10 @@
+{
+    "name": "worker_test",
+    "uuid": "b1eec46a-7a3f-4477-9195-1b92c2d30fb0",
+    "creator": {
+        "version": "3.8.3"
+    },
+    "scripts": {
+        "cp": "cp -r ./assets/resources/* ./build-templates/wechatgame/workers"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "2b5967c5-7ebc-4f3c-a4ac-b7e6c42cb871",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "default",
+    "bundleName": "resources",
+    "priority": 8,
+    "bundleFilterConfig": [
+      {
+        "range": "exclude",
+        "type": "url",
+        "patchOption": {
+          "patchType": "glob",
+          "value": "db://assets/resources/*.js"
+        },
+        "assets": [
+          ""
+        ]
+      }
+    ]
+  }
+}
